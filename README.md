@@ -7,9 +7,8 @@ Project List is a web application designed to manage and display a list of proje
 ## Features
 
 - View a list of projects with essential details.
-- View lists of favorite projects
+- View lists of curated projects
 - Edit project information such as name, description, start date, end date, and project manager.
-- Responsive design for seamless use across devices.
 
 ## Tech Stack
 
