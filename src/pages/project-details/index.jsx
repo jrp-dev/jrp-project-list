@@ -118,7 +118,7 @@ const ProjectEditForm = () => {
             variant="contained"
             color="primary"
             type="submit"
-            // className="w-full md:w-[200px]"
+            className="w-full md:w-auto"
           >
             Update
           </StyledButton>
