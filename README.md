@@ -1,8 +1,8 @@
-# Project List
+# JRP Project List
 
 ## Overview
 
-Project List is a web application designed to manage and display a list of projects. It allows users to view project details, edit project information, and mark favorite projects. The application is built using React and utilizes various modern web technologies.
+JRP Project List is a web application designed to manage and display a list of projects. It allows users to view project details, edit project information, and mark favorite projects. The application is built using React and utilizes various modern web technologies.
 
 ## Features
 
