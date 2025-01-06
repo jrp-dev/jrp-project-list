@@ -23,13 +23,13 @@ Project List is a web application designed to manage and display a list of proje
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/project-list.git
+   git clone https://github.com/jrp-dev/jrp-project-list.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd project-list
+   cd jrp-project-list
    ```
 
 3. Install the dependencies:
